@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/css/main.10714326.chunk.css",
-    "main.js": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/js/main.86251864.chunk.js",
-    "main.js.map": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/js/main.86251864.chunk.js.map",
-    "runtime-main.js": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/js/runtime-main.8e178a8a.js",
-    "runtime-main.js.map": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/js/runtime-main.8e178a8a.js.map",
-    "static/js/2.492b6c87.chunk.js": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/js/2.492b6c87.chunk.js",
-    "static/js/2.492b6c87.chunk.js.map": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/js/2.492b6c87.chunk.js.map",
-    "index.html": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/index.html",
-    "static/css/main.10714326.chunk.css.map": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/css/main.10714326.chunk.css.map",
-    "static/js/2.492b6c87.chunk.js.LICENSE.txt": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/js/2.492b6c87.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/VictorFelipeOliveiraRosa/starwars-datatable-filters/static/media/galaxy.5b3d8ebf.jpg"
+    "main.css": "/starwars-datatable-filters/static/css/main.4f549690.chunk.css",
+    "main.js": "/starwars-datatable-filters/static/js/main.86251864.chunk.js",
+    "main.js.map": "/starwars-datatable-filters/static/js/main.86251864.chunk.js.map",
+    "runtime-main.js": "/starwars-datatable-filters/static/js/runtime-main.8c0e4a17.js",
+    "runtime-main.js.map": "/starwars-datatable-filters/static/js/runtime-main.8c0e4a17.js.map",
+    "static/js/2.492b6c87.chunk.js": "/starwars-datatable-filters/static/js/2.492b6c87.chunk.js",
+    "static/js/2.492b6c87.chunk.js.map": "/starwars-datatable-filters/static/js/2.492b6c87.chunk.js.map",
+    "index.html": "/starwars-datatable-filters/index.html",
+    "static/css/main.4f549690.chunk.css.map": "/starwars-datatable-filters/static/css/main.4f549690.chunk.css.map",
+    "static/js/2.492b6c87.chunk.js.LICENSE.txt": "/starwars-datatable-filters/static/js/2.492b6c87.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/starwars-datatable-filters/static/media/galaxy.5b3d8ebf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e178a8a.js",
+    "static/js/runtime-main.8c0e4a17.js",
     "static/js/2.492b6c87.chunk.js",
-    "static/css/main.10714326.chunk.css",
+    "static/css/main.4f549690.chunk.css",
     "static/js/main.86251864.chunk.js"
   ]
 }
